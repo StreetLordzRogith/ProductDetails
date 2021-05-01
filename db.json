@@ -1,0 +1,38 @@
+{
+    "records": [
+        {
+            "id": "recxy7yXVyeZOIRlH",
+            "fields": {
+                "PID": "P01",
+                "PRICE": 45,
+                "Size": "M",
+                "Status": "IN STOCK",
+                "PTITILE": "T-SHIRTS"
+            },
+            "createdTime": "2021-04-28T13:03:06.000Z"
+        },
+        {
+            "id": "recnCnBcj8u3FotI6",
+            "fields": {
+                "PID": "P02",
+                "PRICE": 55,
+                "Size": "L",
+                "Status": "OUT OF STOCK",
+                "PTITILE": "FORMAL SHIRTS"
+            },
+            "createdTime": "2021-04-28T13:03:06.000Z"
+        },
+        {
+            "id": "recWmy8OfRzX1ityN",
+            "fields": {
+                "PID": "P03",
+                "PRICE": 99,
+                "Size": "8",
+                "Status": "IN STOCK",
+                "PTITILE": "SHOES"
+            },
+            "createdTime": "2021-04-28T13:03:06.000Z"
+        }
+    ],
+    "offset": "recWmy8OfRzX1ityN"
+}
